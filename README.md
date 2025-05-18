@@ -1,4 +1,4 @@
-# Real-Time Time-Series Analyzer (Independent Project)
+# Real-Time Time Analyzer (Independent Project)
 
 A modular and extensible Python system for ingesting, validating, and analyzing time-series data in real-time. Designed and implemented independently to demonstrate strong architectural design, advanced data handling, and multi-threaded processing.
 
@@ -70,7 +70,7 @@ pip install pandas numpy schedule
 4. Run the script:
 
 ```bash
-python question1.2.py
+python real_time_analyzer.py
 ```
 
 5. View output in `hourly_update.txt`
